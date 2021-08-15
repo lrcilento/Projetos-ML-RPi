@@ -20,8 +20,8 @@ hidden_nodes = 100
 output_nodes = 10
 epochs = 5
 ```
-  - Time Elapsed:
-  - Performance:
+  - Time Elapsed: 1900.1s
+  - Performance: 97%
 
 ### i9-10900K + DDR4 3600MHz
 ```
