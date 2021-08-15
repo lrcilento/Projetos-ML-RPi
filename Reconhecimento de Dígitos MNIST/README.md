@@ -11,8 +11,8 @@ hidden_nodes = 10
 output_nodes = 10
 epochs = 1
 ```
-Time Elapsed: 99.1s
-Performance: 89%
+  - Time Elapsed: 99.1s
+  - Performance: 89%
 
 ```
 input_nodes = 784
@@ -20,8 +20,8 @@ hidden_nodes = 100
 output_nodes = 10
 epochs = 5
 ```
-Time Elapsed:
-Performance:
+  - Time Elapsed:
+  - Performance:
 
 ### i9-10900K + DDR4 3600MHz
 ```
@@ -30,8 +30,8 @@ hidden_nodes = 10
 output_nodes = 10
 epochs = 1
 ```
-Time Elapsed: 1.6s
-Performance: 78%
+  - Time Elapsed: 1.6s
+  - Performance: 78%
 
 ```
 input_nodes = 784
@@ -39,8 +39,8 @@ hidden_nodes = 100
 output_nodes = 10
 epochs = 5
 ```
-Time Elapsed: 31.7s
-Performance: 97%
+  - Time Elapsed: 31.7s
+  - Performance: 97%
 
 ## Conclusão
 Mesmo sendo nítida a diferença no tempo de execução entre a minha RPi e o meu i9 é impressionante a sequer capacidade de execução deste tipo de tarefa na Raspberry Pi, isso que com certeza ainda existem optimização adicionais que podem melhorar a performance desse tipo de algorimito em SBCs.
