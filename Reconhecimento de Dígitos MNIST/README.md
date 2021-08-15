@@ -43,6 +43,6 @@ epochs = 5
   - Performance: 97%
 
 ## Conclusão
-Mesmo sendo nítida a diferença no tempo de execução entre a minha RPi e o meu i9 é impressionante a sequer capacidade de execução deste tipo de tarefa na Raspberry Pi, isso que com certeza ainda existem optimização adicionais que podem melhorar a performance desse tipo de algorimito em SBCs.
+Mesmo sendo nítida a diferença no tempo de execução entre a minha RPi e o meu i9, é impressionante a sequer capacidade de execução deste tipo de tarefa na Raspberry Pi, isso que com certeza ainda existem otimizações adicionais que podem melhorar a performance desse tipo de algorimito em SBCs.
 
 Outra observação relevante é a volatilidade da performance quando é utilizado poucos 'epochs' e 'hidden nodes', pelo que observei existe uma variabilidade de até 10% na taxa de acerto.
