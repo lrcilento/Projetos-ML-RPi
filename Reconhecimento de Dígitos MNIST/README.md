@@ -12,6 +12,7 @@ output_nodes = 10
 epochs = 1
 ```
 Time Elapsed: 99.1s
+
 Performance: 89%
 
 ```
@@ -21,6 +22,7 @@ output_nodes = 10
 epochs = 5
 ```
 Time Elapsed:
+
 Performance:
 
 ### i9-10900K + DDR4 3600MHz
@@ -31,6 +33,7 @@ output_nodes = 10
 epochs = 1
 ```
 Time Elapsed: 1.6s
+
 Performance: 78%
 
 ```
@@ -40,6 +43,7 @@ output_nodes = 10
 epochs = 5
 ```
 Time Elapsed: 31.7s
+
 Performance: 97%
 
 ## Conclusão
