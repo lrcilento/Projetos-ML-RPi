@@ -8,8 +8,6 @@ Assim como os outros exercícios, ele será executado tanto no meu computador (i
 
 ## Resultados
 
-### Raspberry Pi 3B
-
 ### i9-10900K + DDR4 3600MHz
 
 A criação do arquivo '*encodings.pickle*' levou **1500s (25 minutos)** usando o método CNN e apenas **29s** usando o método HOG.
