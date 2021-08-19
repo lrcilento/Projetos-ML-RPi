@@ -22,8 +22,8 @@ Video Exemplo 2: Reconheceu apenas um personagem durante o vídeo todo. (Paul Su
 
 ### i9-10900K + DDR4 3600MHz
 
-A criação do arquivo '*encodings.pickle*' levou **1500s (25 minutos)** usando o método CNN e apenas **29s** usando o método HOG.
-Os tempos de execução de todas as imagens foram abaixo de **0.0005s**, e dos vídeos foram, respectivamente: **257s e 230s**.
+  - A criação do arquivo '*encodings.pickle*' levou **1500s (25 minutos)** usando o método CNN e apenas **29s** usando o método HOG.
+  - Os tempos de execução de todas as imagens foram abaixo de **0.0005s**, e dos vídeos foram, respectivamente: **257s e 230s**.
 
 ## Conclusão
 
