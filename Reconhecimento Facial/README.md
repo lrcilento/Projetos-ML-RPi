@@ -8,10 +8,6 @@ Assim como os outros exercícios, ele será executado tanto no meu computador (i
 
 ## Resultados
 
-### i9-10900K + DDR4 3600MHz
-
-A criação do arquivo '*encodings.pickle*' levou **1500s (25 minutos)** usando o método CNN e apenas **29s** usando o método HOG.
-
 ```
 Exemplo 1: Reconheceu apenas um personagem. (Paul Sunday)
 Exemplo 2: Reconheceu apenas um personagem. (Paul Sunday)
@@ -20,16 +16,14 @@ Exemplo 4: Não reconheceu nenhum personagem.
 Exemplo 5: Reconheceu ambos personagens!
 Exemplo 6: Não reconheceu nenhum personagem.
 Exemplo 7: Não reconheceu nenhum personagem.
-```
-
-Todas execuções acima levaram menos de **0.0005s**.
-
-```
 Video Exemplo 1: Reconheceu ambos os personagens durante o vídeo todo!
 Video Exemplo 2: Reconheceu apenas um personagem durante o vídeo todo. (Paul Sunday)
 ```
 
-Os tempos de execução dos vídeos foram, respectivamente: **257s e 230s**.
+### i9-10900K + DDR4 3600MHz
+
+A criação do arquivo '*encodings.pickle*' levou **1500s (25 minutos)** usando o método CNN e apenas **29s** usando o método HOG.
+Os tempos de execução de todas as imagens foram abaixo de **0.0005s**, e dos vídeos foram, respectivamente: **257s e 230s**.
 
 ## Conclusão
 
