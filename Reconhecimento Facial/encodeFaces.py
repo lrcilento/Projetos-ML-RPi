@@ -40,4 +40,4 @@ f.close()
 
 print ("Time Elapsed: ", str(time.time() - start_time))
 
-# python3 encodeFaces.py --dataset '../Partial Datasets' --encodings encodings.pickle
+# python3 encodeFaces.py --dataset Datasets --encodings encodings.pickle
