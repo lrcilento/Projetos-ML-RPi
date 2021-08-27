@@ -25,6 +25,11 @@ Video Exemplo 2: Reconheceu apenas um personagem durante o vídeo todo. (Paul Su
   - A criação do arquivo '*encodings.pickle*' levou **1500s (25 minutos)** usando o método CNN e apenas **29s** usando o método HOG.
   - Os tempos de execução de todas as imagens foram abaixo de **0.0005s**, e dos vídeos foram, respectivamente: **257s e 230s**.
 
+### Raspberry Pi 3B
+
+  - Visto que a RPi é incapaz de utilizar o método CNN, a criação do arquivo '*encodings.pickle*' foi feita apenas com o método HOG e levou **313s**.
+  - Os tempos de execução de todas as imagens foram entre **0.002s e 0.004s**, 
+
 ## Conclusão
 
 Acredito que a diferença de performance em relação aos dois personagens se dá pelo fato do Dataset de um deles (Paul Sunday) ter uma maior qualidade.
