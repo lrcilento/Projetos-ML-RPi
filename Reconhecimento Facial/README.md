@@ -28,7 +28,7 @@ Video Exemplo 2: Reconheceu apenas um personagem durante o vídeo todo. (Paul Su
 ### Raspberry Pi 3B
 
   - Visto que a RPi é incapaz de utilizar o método CNN, a criação do arquivo '*encodings.pickle*' foi feita apenas com o método HOG e precisou de **313s**.
-  - Os tempos de execução de todas as imagens foram entre **0.002s e 0.005s**, e dos vídeos foram, respectivamente: **3167s (52 minutos) e **.
+  - Os tempos de execução de todas as imagens foram entre **0.002s e 0.005s**, e dos vídeos foram, respectivamente: **3167s (52 minutos) e**.
 
 ## Conclusão
 
