@@ -50,4 +50,4 @@ print ("Time Elapsed: ", str(time.time() - start_time))
 cv2.imshow("Image", image)
 cv2.waitKey(0)
 
-# python3 recognizeFaces_image.py --encodings encodings.pickle --image 'Testes/Exemplo 1.jpg'
+# python3 recognizeFaces.py --encodings encodings.pickle --image 'Testes/Exemplo 1.jpg'
