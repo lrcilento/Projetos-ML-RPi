@@ -82,3 +82,5 @@ stream.release()
 
 if writer is not None:
 	writer.release()
+	
+# python3 recognizeFacesVideo.py --encodings encodings.pickle --input 'Testes/Video Exemplo 1.mkv' --output 'Video Resultado.mkv' --display 0 --detection-method hog
